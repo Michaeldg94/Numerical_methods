@@ -8,7 +8,6 @@ This repository contains two ZIP archives with outputs from the numerical method
 
 Each `.zip` file follows this structure:
 
----
 
 ## 📁 Folder Details
 
