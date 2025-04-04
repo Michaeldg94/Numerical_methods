@@ -1,6 +1,11 @@
 # Project Data Archive
 
-This repository contains two ZIP archives with outputs from the numerical methods and welfare evaluation project. Each ZIP archive is structured by policy scenario and includes both **figures** and **tables**.
+This repository contains **two ZIP archives** with simulation results and outputs from a numerical methods project studying wind and solar investment decisions under various policy scenarios.
+
+- One ZIP file contains results using the **full original dataset**.
+- The other ZIP contains results where **plants with capacity greater than 50 MW are split** into multiple smaller units for analysis.
+
+Each ZIP archive is structured by policy scenario and includes both **figures** and **tables** to allow easy exploration and comparison.
 
 ---
 
