@@ -39,7 +39,7 @@ Each `.zip` file follows this structure:
   Total welfare across varying levels of γ and θ.
 
 - `07_profit_vs_gamma_theta`  
-  Profit shares (%).
+  Profit in levels.
 
 #### 📄 Tables
 
