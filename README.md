@@ -20,8 +20,8 @@ Each ZIP file contains the following directory layout:
   Contains results under public subsidies to projects.
 
 Each scenario folder has:
-- `Tables/` — CSV, Excel, or LaTeX tables summarizing results.
-- `Figures/` — Graphical outputs such as supply/demand curves, welfare charts, etc.
+- `Tables/` — `Excel` files summarizing results.
+- `Figures/` — Graphical outputs such as supply curves, prices, quantities and welfare equilibria.
 
 ## 🔖 Notes
 
