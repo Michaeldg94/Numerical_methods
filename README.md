@@ -107,7 +107,8 @@ Each `.zip` file follows this structure:
 - `01_wind_solar_projects_cpr_T_theta_3500.xlsx`  
   Project-level data under the public subsidy `T` scheme for θ = 3500.
 - `02_wind_solar_projects_cpr_public_expenditure_T_G`
-    Project-level data under the condition of public expenditure with G = public expenditure with T.
+  
+  Project-level data under the condition of public expenditure with G = public expenditure with T.
 ---
 
 ## 🔖 Notes
