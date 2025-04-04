@@ -8,17 +8,6 @@ This repository contains two ZIP archives with outputs from the numerical method
 
 Each `.zip` file follows this structure:
 
-# Project Data Archive
-
-This repository contains two ZIP archives with outputs from the numerical methods and welfare evaluation project. Each ZIP archive is structured by policy scenario and includes both **figures** and **tables**.
-
----
-
-## 📦 ZIP Folder Structure
-
-Each `.zip` file follows this structure:
-
-
 ---
 
 ## 📁 Folder Details
