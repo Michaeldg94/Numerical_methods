@@ -1,31 +1,62 @@
-# Numerical-Methods
 
-# Project Data Archive
+---
 
-This repository contains two ZIP archives with results from the numerical methods project. Each archive is organized into policy scenario folders, and each scenario folder includes both figures and tables.
+## 📁 Folder Details
 
-## 📦 ZIP Folder Structure
+### 🔹 `Baseline/`
 
-Each ZIP file contains the following directory layout:
+#### 📊 Figures
+- `01_supply_function_cpr_theta_2500`
+- `02_supply_function_cpr_theta_3500`
+- `03_supply_function_cpr_theta_4500`
+- `04_equilibrium_price_vs_gamma_theta`
+- `05_equilibrium_quantity_vs_gamma_theta`
+- `06_welfare_vs_gamma_theta`
+- `07_profit_share_vs_gamma_theta`
 
-## 📁 Folder Descriptions
+#### 📄 Tables
+- `01_wind_solar_projects_cpr_theta.xlsx`
 
-- **Baseline/**  
-  Contains outputs for the benchmark (no-intervention) policy scenario.
+---
 
-- **Public_Guarantees/**  
-  Contains results under public guarantee schemes.
+### 🔹 `Public_Guarantees/`
 
-- **Public_Subsidies/**  
-  Contains results under public subsidies to projects.
+#### 📊 Figures
+- `01_equilibrium_price_vs_gamma_theta_publicg`
+- `02_equilibrium_quantity_vs_gamma_theta_publicg`
+- `03_welfare_vs_gamma_theta_publicg`
+- `04_profit_share_vs_gamma_theta_publicg`
 
-Each scenario folder has:
-- `Tables/` — `Excel` files summarizing results.
-- `Figures/` — Graphical outputs such as supply curves, prices, quantities and welfare equilibria.
+#### 📄 Tables
+- `01_wind_solar_projects_cpr_theta_with_public-g.xlsx`
+
+---
+
+### 🔹 `Public_Subsidies/`
+
+#### 📊 Figures
+- `01_supply_function_cpr_T_0.2_theta_3500`
+- `02_supply_function_cpr_T_0.4_theta_3500`
+- `03_supply_function_cpr_T_0.6_theta_3500`
+- `04_supply_function_cpr_T_0.8_theta_3500`
+- `06_equilibrium_price_vs_gamma_T`
+- `07_equilibrium_quantity_vs_gamma_T`
+- `08_equilibrium_welfare_vs_gamma_T`
+- `09_profit_share_vs_gamma_T`
+- `10_welfare_ratios_public_g_t`
+
+#### 📄 Tables
+- `01_wind_solar_projects_cpr_T_theta_3500.xlsx`
+
+---
 
 ## 🔖 Notes
 
-- File names within the folders follow a consistent naming convention for easy identification.
-- Each ZIP archive corresponds to a specific data subset or modeling variation.
-
+- All figures are in `.pdf` format and numbered for logical ordering.
+- All tables are in `.xlsx` format and contain raw or processed model output.
+- File naming is consistent across scenarios to simplify comparison.
+- Scenarios:
+  - **Baseline:** No intervention
+  - **Public_Guarantees:** Scenario with guaranteed prices or risk-sharing
+  - **Public_Subsidies:** Scenario with direct subsidies on investment or output
 
