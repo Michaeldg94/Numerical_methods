@@ -34,7 +34,7 @@ Each `.zip` file follows this structure:
   Total welfare across varying levels of γ and θ.
 
 - `07_profit_share_vs_gamma_theta`  
-  Percentage of welfare captured as producer profits.
+  Profit shares (%).
 
 #### 📄 Tables
 
@@ -57,7 +57,7 @@ Each `.zip` file follows this structure:
   Welfare outcomes under public guarantees.
 
 - `04_profit_share_vs_gamma_theta_publicg`  
-  Share of welfare captured as profits under public guarantees.
+  Profit shares (%).
 
 #### 📄 Tables
 
@@ -92,7 +92,7 @@ Each `.zip` file follows this structure:
   Welfare outcomes across γ and T under subsidy support.
 
 - `09_profit_share_vs_gamma_T`  
-  Share of welfare captured as producer profit under subsidies.
+  Profit shares (%).
 
 - `10_welfare_ratios_public_g_t`  
   Welfare comparison: public guarantees vs subsidies.
@@ -100,7 +100,7 @@ Each `.zip` file follows this structure:
 #### 📄 Tables
 
 - `01_wind_solar_projects_cpr_T_theta_3500.xlsx`  
-  Project-level data under the public subsidy scheme for θ = 3500.
+  Project-level data under the public subsidy `T` scheme for θ = 3500.
 
 ---
 
@@ -111,5 +111,5 @@ Each `.zip` file follows this structure:
 - File naming is consistent across scenarios to simplify comparison.
 - Scenarios:
   - **Baseline:** No intervention
-  - **Public_Guarantees:** Scenario with guaranteed prices or risk-sharing
-  - **Public_Subsidies:** Scenario with direct subsidies on investment or output
+  - **Public_Guarantees:** Scenario with public guarantees
+  - **Public_Subsidies:** Scenario with public subsidies `T`
